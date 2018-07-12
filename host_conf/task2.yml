@@ -1,0 +1,7 @@
+---
+
+- name: Task 2
+  debug:
+    msg: and this is task 2
+
+...

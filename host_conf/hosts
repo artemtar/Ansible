@@ -1,0 +1,12 @@
+[control]
+artemdev 
+
+[centos]
+centos-[1:3]
+
+[ubuntu]
+packt@ubuntu-[1:3]
+
+[linux:children]
+centos
+ubuntu
